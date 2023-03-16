@@ -2,11 +2,6 @@
 
 This is a simple text editor that allows users to create and save notes in a designated directory.
 
-## Table of Contents
-
-- [Usage](#usage)
-- [Output Sample](#output)
-
 ## Usage
 
 To use this note-taking application, simply run the `note_taker.sh` script in your terminal.
